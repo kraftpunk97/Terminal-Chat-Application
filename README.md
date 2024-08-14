@@ -1,4 +1,4 @@
-# MT Socket Programming with Java
+# Terminal Chat Application
 
 This project is the result of my tinkering of with Java's Multithreading and Networking. It is supposed to be the prototype of a basic terminal based chat application. This is a server-client application, in which one computer must assume the role of the server, and then we can initiate two or more terminals to be the clients.
 
